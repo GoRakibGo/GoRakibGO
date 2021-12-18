@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Rakib
+### Hi there 👋, This is Rakibul Islam
 #### I am Blockchain & Smart Contract Developer
 Experienced Blockchain Engineer (Smart Contract) with a demonstrated history of working in the computer networking industry. Skilled in Python, Java, JavaScript, TypeScript, Rust, React, NodeJs, Go, Solidity, Flutter and Android. Strong engineering professional with a Bachelor of Science (BSc) focused in Computer Science from BRAC University.
 
